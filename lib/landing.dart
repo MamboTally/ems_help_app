@@ -13,7 +13,7 @@ class _LandingState extends State<Landing> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Emergency Ambulance Hailing System..'),
+        title: const Text('EMS Help Application'),
         centerTitle: true,
         backgroundColor: const Color.fromARGB(255, 133, 130, 130),
         elevation:0.0,

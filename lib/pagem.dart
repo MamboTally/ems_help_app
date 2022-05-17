@@ -24,7 +24,7 @@ class _MapState extends State<Map> {
     return Scaffold(
       // backgroundColor: const Color.fromARGB(255, 62, 63, 63),
        appBar: AppBar(
-        title: const Text('Emergency Ambulance...'),
+        title: const Text('EMS Help Application'),
         centerTitle: true,
         backgroundColor: const Color.fromARGB(255, 133, 130, 130),
         elevation:0.0,
