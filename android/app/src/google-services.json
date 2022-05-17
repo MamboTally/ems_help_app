@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1069649066363",
+    "project_id": "gpsmap-19be7",
+    "storage_bucket": "gpsmap-19be7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069649066363:android:3869832d4402c1d58265de",
+        "android_client_info": {
+          "package_name": "com.example.gpsmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069649066363-l1r2680gq0t2nj7vn6106m0a4aenr1to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABap_l6G-ssCG2N0786cFtl1yBH2IQlWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069649066363-l1r2680gq0t2nj7vn6106m0a4aenr1to.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
